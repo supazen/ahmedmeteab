@@ -11,7 +11,7 @@ I'm Ahmed, a self-motivated learner with a passion for infrastructure, Linux sys
 - Ubuntu Server setup and remote access via SSH
 - Port forwarding and UFW firewall management
 - Static IP configuration for local network
-- Battery management and calibration for Linux laptops (Dell XPS 7390)
+- Battery management and calibration for Linux running laptops (Dell, HP, Lenovo)
 - System monitoring with tools like `htop`, `journalctl`, `df`, etc.
 
 ### Linux (Ubuntu MATE / CachyOS)
